@@ -1,4 +1,4 @@
-FROM contribsys/faktory:latest
+FROM contribsys/faktory:1.5.0
 
 # it is assumed you are running Faktory locally for development
 # and pushing to render.com for production.
